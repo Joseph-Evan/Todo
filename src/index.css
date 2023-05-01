@@ -1,0 +1,19 @@
+.app {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
+    gap: 20px;
+    
+}
+
+.todo {
+    display: flex;
+    gap: 5px;
+}
+
+.todo span {
+    font-size: 30px;
+}
+
+
